@@ -4,6 +4,10 @@
 
 from distutils.core import setup
 from loggers import __version__ as version
+"""
+This module defines functions and classes which implement 
+a flexible event logging system for applications and libraries
+"""
 
 maintainer = 'ShaoZhengjiang'
 maintainer_email = 'shaozhengjiang@gmail.com'
